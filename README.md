@@ -3,6 +3,9 @@
 Bu uygulama bir şirketin ürün tanıtımlarını yaparak, kullanıcıdan gelen siparişleri servis kanalıyla alır ve ürünü müşteriye gönderimini yapar.
 
 
+Kullanıcı Adı  | Şifre
+------------- | -------------
+zehra@mail.com  | :lock: 12345
 
 
 <p>
